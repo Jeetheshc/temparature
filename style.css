@@ -1,0 +1,37 @@
+.div1{
+  align-content: center;
+  padding: 20px;
+  text-align: center;
+  background-color: gray;
+  width: auto;
+  display: flex;
+  align-items: center;
+}
+#temp{
+text-align: center;
+padding: 10px;
+}
+.input1{
+    padding: 10px;
+}
+.input2{
+    padding: 10px;
+}
+.select1{padding: 10px;
+
+}
+.select2{padding: 10px;
+
+}
+.selectv{padding: 10px;
+
+}
+.btn1{padding: 10px;
+
+}
+.result1{
+background-color: rgb(255, 255, 255);
+border-radius: 20px;
+padding: 10px;
+font-weight: bold;
+}
